@@ -13,10 +13,10 @@
 
 (defn pot[x] (* x x) )
 (pot 3)
-(map (fn [x] (+ 1 x)) (range 10))
+(map (fn [x] (+ 989 x)) (range 10))
 
 
- (defn nrange[x] (map (fn [x] (+ 1234 x)) (range x)) )
+ (defn nrange[x] (map (fn [x] (+ 1191 x)) (range x)) )
  (def fstr "http://200.48.102.67/pecaoe/sipe/HojaVida.htm?p=72&op=140&c=")
 
  (to (str fstr 104272))
@@ -27,23 +27,44 @@
  ; "txtLugarDepartamentoRes" "txtLugarDepartamentoRes" "txtLugarProvinciaRes" "txtLugarDistritoRes" "txtTiempoRes"
  ; "txtPadre" "txtMadre" "txtConyuge"
 
-;(def labels ["#txtCargoPostula" "#txtLugarPostula" "#txtDNI" "#txtApellidoPaterno" "#txtApellidoMaterno" "#txtNombres" "#txtSexo"])
-(def labels ["#txtDNI"])
+(def labels ["#txtCargoPostula" "#txtLugarPostula" "#txtDNI" "#txtApellidoPaterno" "#txtApellidoMaterno" "#txtNombres" "#txtSexo"])
+;(def labels ["#txtDNI"])
+
+
 
 (def results
-  (map (fn [x]
-         (to x)
-         (zipmap [:primaria :cargo :lugar :dni :paterno :materno :nombres :sexo]
-                 (conj
-                  (map text labels)
-                  (let [wtf (map text (elements "table#tblEducacionPrimaria td")) ]
-                    (if (empty? wtf)"" wtf))
-                  )))
-       ;(text (elements "table#tblEducacionPrimaria td"))
-       (map (fn [x] (str fstr x)) (nrange 1))))
+  (map
+   (fn [x]
+     (to x)
+     (zipmap
+      [:primaria :cargo :lugar :dni :paterno :materno :nombres :sexo ]
+      (conj
+       (pmap text labels)
+       (doall (map text (elements "table#tblEducacionPrimaria td"))))))
+   (map (fn [x] (str fstr x)) (nrange 20))))
 
- (with-open [wrtr (writer "/home/saiberz/projects/test.json")]
+(with-open [wrtr (writer "/home/saiberz/projects/elecciones2014/resultado.json")]
     (.write wrtr (json/write-str results)))
+
+(map
+ (fn [x]
+   (to x)
+   (doall (map text (elements "table#tblEducacionPrimaria td"))))
+ (map (fn [x] (str fstr x)) [1 2]))
+
+;(map text (elements "table#tblEducacionPrimaria td") )
+;(text (elements "table#tblEducacionPrimaria td"))
+;(map (fn [x] (str fstr x)) [1 2])
+;(let [wtf (elements "table#tblEducacionPrimaria td") ]
+
+;(defn multis [x]
+;  (let [a x]
+;    (to (str fstr x))
+;    (map text (elements "table#tblEducacionPrimaria td") ) ) )
+;(map text (elements "table"))
+;(multis 1)
+;(to (str fstr 12 ))
+;(map multis [1 2])
 
  (conj [2 3 4] (map text (elements "table#tblEducacionPrimaria td")) )
 
