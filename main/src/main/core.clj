@@ -1,5 +1,6 @@
 (ns main.core
- (:require [clojure.data.json :as json]))
+ (:require [clojure.data.json :as json])
+ (:require [clojure.test :as test]))
 
 (use 'clojure.java.io)
 (use 'clj-webdriver.taxi)
@@ -13,10 +14,9 @@
 
 (defn pot[x] (* x x) )
 (pot 3)
-(map (fn [x] (+ 989 x)) (range 10))
 
 
- (defn nrange[x] (map (fn [x] (+ 1191 x)) (range x)) )
+ (defn nrange[x y] (map (fn [x] (+ y x)) (range (- y x ))) )
  (def fstr "http://200.48.102.67/pecaoe/sipe/HojaVida.htm?p=72&op=140&c=")
 
  (to (str fstr 104272))
@@ -31,20 +31,52 @@
 ;(def labels ["#txtDNI"])
 
 
-
 (def results
-  (map
-   (fn [x]
-     (to x)
-     (zipmap
-      [:primaria :cargo :lugar :dni :paterno :materno :nombres :sexo ]
-      (conj
-       (pmap text labels)
-       (doall (map text (elements "table#tblEducacionPrimaria td"))))))
-   (map (fn [x] (str fstr x)) (nrange 20))))
+   (map (fn [x]
+          (cond
+           (test/is (to (str fstr x)))
+           (zipmap [:tecnico :secundaria :primaria :id :cargo :lugar :dni :paterno :materno :nombres :sexo ]
+                   (conj
+                    (pmap text labels)
+                    x
+                    (let [z (pmap text (elements "table#tblEducacionPrimaria td"))]
+                      (pmap
+                       (fn [x]
+                         (zipmap [:nombre :lugar :estado :año]
+                                 z))
+                       (range (/ (count z) 5))))
+                    (let [z (pmap text (elements "table#tblEducacionSecundaria td"))]
+                      (pmap
+                       (fn [x]
+                         (zipmap [:nombre :lugar :estado :año]
+                                 z))
+                       (range (/ (count z) 5))))
+                    (doall (pmap text (elements "table#tblTecnico td")))
+                    ))))
+        (range 1 180)))
+
+(to (str fstr 12))
 
 (with-open [wrtr (writer "/home/saiberz/projects/elecciones2014/resultado.json")]
     (.write wrtr (json/write-str results)))
+
+(+ 3 2)
+(let [z (pmap text (elements "table#tblEducacionPrimaria td"))]
+  (pmap
+   (fn [x]
+     (zipmap [:nombre :lugar :estado :año]
+             z))
+   (range (/ (count z) 5))))
+(pmap
+ (fn [x]
+   (zipmap [:nombre :lugar :estado :año]
+           (pmap text (elements "table#tblEducacionPrimaria td"))))
+ (range (/ (count (pmap text (elements "table#tblEducacionPrimaria td"))) 5)))
+
+
+(test/is (to (str fstr 14)))
+(text (element "#txtDNI"))
+(map text (elements "table#tblTecnico td"))
 
 (map
  (fn [x]
