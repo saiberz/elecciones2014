@@ -12,7 +12,7 @@
  ;"txtCargoPostula"  "txtLugarPostula" "txtFormaDesignacion" "txtDNI" "txtApellidoPaterno" "txtApellidoMaterno" "txtNombres" "txtFechaNacimiento"
  ; "txtSexo" "txtCorreoElectronico" "txtPais" "txtDepartamentoNac" "txtProvinciaNac" "txtDistritoNac" "txtLugarResicencia"
  ; "txtLugarDepartamentoRes" "txtLugarDepartamentoRes" "txtLugarProvinciaRes" "txtLugarDistritoRes" "txtTiempoRes"
- ; "txtPadre" "txtMadre" "txtConyuge"
+ ; "txtPadre" "txtMadre" "txtConyuge" "txtCandidatoIngresoTotal"
 (defn fill-table [table-id table-keys]
  (let [z (pmap text (elements table-id))
        siz (count z)
@@ -31,7 +31,7 @@
           keys-CargosP [:Organizacion :Ambito :Cargo :Periodo]
           keys-CargosE [:Organizacion :Ambito :Cargo :Lugar :Proceso :Periodo]
           keys-Militancia [:Denominacion :Periodo]
-          keys-Ingresos [:t :RemPub :RemPriv :RemTotal :RenPub :RenPriv :RenTotal :OtrosPub :OtrosPriv :OtrosTotal :Total ]
+          keys-Ingresos [:t :RemPub :RemPriv :RemTotal :RenPub :RenPriv :RenTotal :OtrosPub :OtrosPriv :OtrosTotal ]
           keys-Inmuebles [:tipo :direccion :ficha :autovaluo]
           ]
 
@@ -42,10 +42,8 @@
                    (conj
                     (map text labels)
                     x
-                    ;;;tblEducacionPrimaria
-                    ;;; lblEducacion
+
                     (fill-table "table#tblEducacionPrimaria td" keys-Educacion)
-                    ;;;tblEducacionSecundaria
                     (fill-table "table#tblEducacionSecundaria td" keys-Educacion)
                     (fill-table "table#tblTecnico td" keys-Tecnico)
                     (fill-table "table#tblUniversitario td" keys-Universitario)
@@ -58,14 +56,13 @@
 
 
                     ))))
-        (range 104272 104280))))
+;;Modificar el rango que quieres descargar
+        (range 1 50))))
 
+;; Modificar la ruta donde quieres que se exporte el archivo JSON
 (with-open [wrtr (writer "/home/saiberz/projects/elecciones2014/resultado3.json")]
     (.write wrtr (json/write-str results)))
 
-
-;;test
-(to (str fstr 104272))
 
 
 
