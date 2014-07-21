@@ -320,3 +320,1036 @@
 [INFO  - 2014-07-21T01:05:25.672Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2014-07-21T01:10:00.339Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2014-07-21T01:10:25.748Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:15:00.438Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:15:25.835Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:20:00.531Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:20:25.927Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:25:00.549Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:25:25.927Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:30:00.649Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:32:29.904Z] GhostDriver - Main - running on port 26647
+[INFO  - 2014-07-21T01:32:30.447Z] Session [e18e9240-1076-11e4-8929-fbc9716f247a] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T01:32:30.447Z] Session [e18e9240-1076-11e4-8929-fbc9716f247a] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T01:32:30.447Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e18e9240-1076-11e4-8929-fbc9716f247a
+[INFO  - 2014-07-21T01:35:00.684Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:37:30.004Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:40:00.748Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:42:30.025Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:45:00.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:47:30.120Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:50:00.903Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:52:30.217Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:55:00.973Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T01:57:30.247Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:00:01.073Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:02:30.258Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:05:01.163Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:07:30.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:10:01.254Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:12:30.368Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:15:01.301Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:17:30.386Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:20:01.398Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:22:30.391Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:25:01.491Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:27:30.488Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:30:01.565Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:32:30.490Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:35:01.656Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:37:30.569Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:40:01.751Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:42:31.164Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:45:01.948Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:47:30.933Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:50:01.901Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:52:30.954Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:55:01.983Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T02:57:31.032Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:00:14.547Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:02:34.177Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:05:06.042Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:07:31.230Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:32:28.936Z] GhostDriver - Main - running on port 27703
+[INFO  - 2014-07-21T03:32:29.241Z] Session [a4604740-1087-11e4-83f6-870dbbf4077a] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T03:32:29.241Z] Session [a4604740-1087-11e4-83f6-870dbbf4077a] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T03:32:29.241Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a4604740-1087-11e4-83f6-870dbbf4077a
+[INFO  - 2014-07-21T03:34:57.254Z] GhostDriver - Main - running on port 17330
+[INFO  - 2014-07-21T03:34:57.581Z] Session [fccb2a80-1087-11e4-81df-c5a8176c5e4b] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T03:34:57.581Z] Session [fccb2a80-1087-11e4-81df-c5a8176c5e4b] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T03:34:57.581Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fccb2a80-1087-11e4-81df-c5a8176c5e4b
+[INFO  - 2014-07-21T03:37:29.028Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:39:57.308Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:42:29.121Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:44:57.361Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:46:45.840Z] GhostDriver - Main - running on port 20941
+[INFO  - 2014-07-21T03:46:46.150Z] Session [a3225e20-1089-11e4-bff3-7fbaf5a9b408] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T03:46:46.150Z] Session [a3225e20-1089-11e4-bff3-7fbaf5a9b408] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T03:46:46.150Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a3225e20-1089-11e4-bff3-7fbaf5a9b408
+[INFO  - 2014-07-21T03:47:29.215Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:49:57.442Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:51:45.937Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:52:29.285Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:54:57.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:56:46.031Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:57:29.372Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T03:59:57.626Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:01:46.128Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:02:29.452Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:04:57.717Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:07:29.582Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:07:58.030Z] GhostDriver - Main - running on port 30220
+[INFO  - 2014-07-21T04:07:58.487Z] Session [99816f20-108c-11e4-9f1e-2fffa83183be] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T04:07:58.487Z] Session [99816f20-108c-11e4-9f1e-2fffa83183be] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T04:07:58.487Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 99816f20-108c-11e4-9f1e-2fffa83183be
+[INFO  - 2014-07-21T04:09:57.806Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:12:29.648Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:12:58.120Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:14:57.896Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:17:29.684Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:17:58.206Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:19:57.995Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:22:29.777Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:22:58.303Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:24:58.095Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:27:29.877Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:27:58.381Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:29:14.011Z] GhostDriver - Main - running on port 26654
+[INFO  - 2014-07-21T04:29:14.461Z] Session [920b9d80-108f-11e4-b242-c9fae164e5d8] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T04:29:14.462Z] Session [920b9d80-108f-11e4-b242-c9fae164e5d8] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T04:29:14.494Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 920b9d80-108f-11e4-b242-c9fae164e5d8
+[INFO  - 2014-07-21T04:29:58.190Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:32:30.113Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:32:33.399Z] GhostDriver - Main - running on port 23253
+[INFO  - 2014-07-21T04:32:33.637Z] Session [08c34ef0-1090-11e4-9c9a-7fc80edc8487] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T04:32:33.637Z] Session [08c34ef0-1090-11e4-9c9a-7fc80edc8487] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T04:32:33.637Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 08c34ef0-1090-11e4-9c9a-7fc80edc8487
+[INFO  - 2014-07-21T04:33:20.312Z] GhostDriver - Main - running on port 6358
+[INFO  - 2014-07-21T04:33:20.829Z] Session [24e43c70-1090-11e4-bc2d-0fc665b9850f] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T04:33:20.829Z] Session [24e43c70-1090-11e4-bc2d-0fc665b9850f] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T04:33:20.829Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 24e43c70-1090-11e4-bc2d-0fc665b9850f
+[INFO  - 2014-07-21T04:34:14.096Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:34:58.292Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:37:30.115Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:37:33.442Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:38:20.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:39:14.190Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:39:58.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:42:30.211Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:42:33.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:43:20.417Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:44:14.287Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:44:58.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:47:30.348Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:47:33.633Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:48:20.509Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:49:14.385Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:49:58.543Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:52:30.403Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:52:33.729Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:53:20.580Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:54:14.484Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:54:58.638Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:57:30.489Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:57:33.827Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:58:20.631Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:59:14.576Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T04:59:58.712Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:02:30.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:02:33.903Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:03:20.711Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:04:14.669Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:04:58.822Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:07:30.574Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:07:33.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:08:20.762Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:09:14.735Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:09:58.908Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:12:30.626Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:12:34.085Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:13:20.777Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:14:14.817Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:14:58.914Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:17:30.718Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:17:34.128Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:18:20.875Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:19:14.910Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:19:59.010Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:22:30.808Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:22:34.213Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:23:20.958Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:24:15.006Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:24:59.083Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:27:30.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:27:34.295Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:28:21.058Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:29:15.101Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:29:59.145Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:32:30.983Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:32:34.382Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:33:21.153Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:33:51.350Z] GhostDriver - Main - running on port 8928
+[INFO  - 2014-07-21T05:33:51.518Z] Session [98f39090-1098-11e4-9bb7-b5ba865c2ed2] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T05:33:51.518Z] Session [98f39090-1098-11e4-9bb7-b5ba865c2ed2] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T05:33:51.518Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 98f39090-1098-11e4-9bb7-b5ba865c2ed2
+[INFO  - 2014-07-21T05:34:15.198Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:34:59.195Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:37:31.072Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:37:34.473Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:38:21.241Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:38:51.423Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:39:15.294Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:39:59.291Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:42:31.170Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:42:34.569Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:43:21.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:43:51.524Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:44:15.394Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:44:59.386Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:47:32.637Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:47:34.668Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:48:21.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:48:51.688Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:49:15.481Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:49:59.476Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:52:31.721Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:52:34.758Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:53:21.417Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:53:51.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:54:15.580Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:54:59.585Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:57:31.819Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:57:34.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:58:21.512Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:58:51.766Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:59:15.639Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T05:59:59.671Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:02:31.950Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:02:34.938Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:03:21.566Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:03:51.833Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:04:15.724Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:04:59.766Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:07:32.035Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:07:35.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:08:21.695Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:08:51.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:09:15.785Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:09:59.891Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:12:32.156Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:12:35.127Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:13:21.812Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:13:51.848Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:14:15.870Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:15:00.008Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:17:32.276Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:17:35.160Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:18:21.896Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:18:51.848Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:19:15.883Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:20:00.043Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:22:32.356Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:22:35.259Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:23:21.933Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:23:51.883Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:24:15.972Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:25:00.144Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:27:32.397Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:27:35.356Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:28:22.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:28:51.883Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:29:16.071Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:30:00.282Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:32:32.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:32:35.455Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:33:22.134Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:33:51.898Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:34:16.155Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:35:00.359Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:37:32.616Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:37:35.539Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:38:22.259Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:38:51.984Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:39:16.254Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:40:00.460Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:42:32.630Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:42:35.604Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:43:22.303Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:43:51.985Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:44:16.348Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:45:00.484Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:47:32.760Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:47:35.698Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:48:22.428Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:48:51.984Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:49:16.447Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:50:00.570Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:52:32.819Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:52:35.763Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:53:22.531Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:53:52.016Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:54:16.543Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:55:00.655Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:57:32.916Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:57:35.853Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:58:22.629Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:58:52.477Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T06:59:16.627Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:00:00.774Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:02:32.983Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:02:35.951Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:03:22.816Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:03:52.511Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:04:16.723Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:05:00.872Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:05:27.415Z] GhostDriver - Main - running on port 15064
+[INFO  - 2014-07-21T07:05:27.921Z] Session [650fcca0-10a5-11e4-bf2c-2fc0180caeb3] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T07:05:27.921Z] Session [650fcca0-10a5-11e4-bf2c-2fc0180caeb3] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T07:05:27.921Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 650fcca0-10a5-11e4-bf2c-2fc0180caeb3
+[INFO  - 2014-07-21T07:07:15.200Z] GhostDriver - Main - running on port 11736
+[INFO  - 2014-07-21T07:07:15.570Z] Session [a539bbb0-10a5-11e4-a504-e3f2f522f68a] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T07:07:15.570Z] Session [a539bbb0-10a5-11e4-a504-e3f2f522f68a] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T07:07:15.570Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a539bbb0-10a5-11e4-a504-e3f2f522f68a
+[INFO  - 2014-07-21T07:07:33.050Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:07:36.048Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:08:22.785Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:08:52.559Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:09:16.819Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:10:00.980Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:10:27.514Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:12:15.200Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:12:33.147Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:12:36.147Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:13:22.884Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:13:52.643Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:14:16.895Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:15:01.041Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:15:27.602Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:17:16.482Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:17:33.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:17:36.244Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:18:23.000Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:18:52.736Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:19:16.984Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:20:01.104Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:20:27.692Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:20:35.253Z] GhostDriver - Main - running on port 5010
+[INFO  - 2014-07-21T07:20:35.544Z] Session [820c6230-10a7-11e4-ac27-6b3035c8c47c] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T07:20:35.544Z] Session [820c6230-10a7-11e4-ac27-6b3035c8c47c] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T07:20:35.559Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 820c6230-10a7-11e4-ac27-6b3035c8c47c
+[INFO  - 2014-07-21T07:21:39.624Z] GhostDriver - Main - running on port 27447
+[INFO  - 2014-07-21T07:21:40.101Z] Session [a886d8f0-10a7-11e4-8e92-ef2c5a4107e4] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T07:21:40.101Z] Session [a886d8f0-10a7-11e4-8e92-ef2c5a4107e4] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T07:21:40.101Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a886d8f0-10a7-11e4-8e92-ef2c5a4107e4
+[INFO  - 2014-07-21T07:22:15.874Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:22:33.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:22:36.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:22:51.412Z] GhostDriver - Main - running on port 18664
+[INFO  - 2014-07-21T07:22:51.907Z] Session [d353b9e0-10a7-11e4-92f8-ab8f2247fa16] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T07:22:51.907Z] Session [d353b9e0-10a7-11e4-92f8-ab8f2247fa16] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T07:22:51.907Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d353b9e0-10a7-11e4-92f8-ab8f2247fa16
+[INFO  - 2014-07-21T07:23:23.051Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:23:52.928Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:23:57.881Z] GhostDriver - Main - running on port 15286
+[INFO  - 2014-07-21T07:23:58.390Z] Session [faf41300-10a7-11e4-97c0-030ce9ef566e] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T07:23:58.390Z] Session [faf41300-10a7-11e4-97c0-030ce9ef566e] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T07:23:58.391Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: faf41300-10a7-11e4-97c0-030ce9ef566e
+[INFO  - 2014-07-21T07:24:17.084Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:24:39.042Z] GhostDriver - Main - running on port 17571
+[INFO  - 2014-07-21T07:24:39.551Z] Session [137ce5a0-10a8-11e4-9e1c-213c5e1da44e] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T07:24:39.551Z] Session [137ce5a0-10a8-11e4-9e1c-213c5e1da44e] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T07:24:39.551Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 137ce5a0-10a8-11e4-9e1c-213c5e1da44e
+[INFO  - 2014-07-21T07:25:01.203Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:25:27.773Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:25:35.344Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:27:15.961Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:27:27.365Z] GhostDriver - Main - running on port 6473
+[INFO  - 2014-07-21T07:27:27.891Z] Session [77d33cc0-10a8-11e4-8a8b-29cbba8e51a4] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T07:27:27.891Z] Session [77d33cc0-10a8-11e4-8a8b-29cbba8e51a4] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T07:27:27.892Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 77d33cc0-10a8-11e4-8a8b-29cbba8e51a4
+[INFO  - 2014-07-21T07:27:33.426Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:27:36.404Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:27:51.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:28:23.137Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:28:52.940Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:29:17.181Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:30:01.299Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:30:27.852Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:30:35.427Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:32:16.061Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:32:33.523Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:32:36.503Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:32:51.597Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:33:23.236Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:33:53.050Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:34:17.277Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:35:01.392Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:35:27.907Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:35:35.518Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:37:05.693Z] GhostDriver - Main - running on port 7407
+[INFO  - 2014-07-21T07:37:06.192Z] Session [d0856cc0-10a9-11e4-9575-7904efa7ad74] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T07:37:06.193Z] Session [d0856cc0-10a9-11e4-9575-7904efa7ad74] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T07:37:06.193Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d0856cc0-10a9-11e4-9575-7904efa7ad74
+[INFO  - 2014-07-21T07:37:16.159Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2014-07-21T07:37:27.938Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:28.486Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/favicon.ico\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"favicon.ico\",\"directory\":\"/\",\"path\":\"/favicon.ico\",\"relative\":\"/favicon.ico\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/favicon.ico\",\"queryKey\":{},\"chunks\":[\"favicon.ico\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/favicon.ico\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"favicon.ico\",\"directory\":\"/\",\"path\":\"/favicon.ico\",\"relative\":\"/favicon.ico\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/favicon.ico\",\"queryKey\":{},\"chunks\":[\"favicon.ico\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:32.819Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:33.513Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[INFO  - 2014-07-21T07:37:33.654Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2014-07-21T07:37:34.063Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:34.633Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:34.987Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:35.121Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:35.349Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:35.542Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:35.943Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:36.075Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:36.150Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:36.205Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:36.210Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:36.322Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:36.390Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[INFO  - 2014-07-21T07:37:36.602Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2014-07-21T07:37:40.720Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:41.321Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:41.657Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:37:41.947Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[INFO  - 2014-07-21T07:37:51.695Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2014-07-21T07:38:16.071Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:38:16.762Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:38:17.161Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[INFO  - 2014-07-21T07:38:23.337Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2014-07-21T07:38:34.052Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:38:34.717Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:38:34.965Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:38:35.168Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:38:35.405Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:38:35.602Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[ERROR - 2014-07-21T07:38:35.872Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}",
+  "name": "Unknown Command",
+  "line": 87,
+  "sourceId": 140016810275520,
+  "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+  "stack": "Unknown Command: Request => {\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip,deflate,sdch\",\"Accept-Language\":\"es-419,es;q=0.8,en;q=0.6\",\"Cache-Control\":\"max-age=0\",\"Connection\":\"keep-alive\",\"Cookie\":\"sessionid=ko4mmxmo2n7qtvydpp05ylare1xf9g8k; csrftoken=btF6YjczdKi3WW188EBuTRHJOwfFk9AJ\",\"Host\":\"localhost:7407\",\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.103 Chrome/36.0.1985.103 Safari/537.36\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"\",\"directory\":\"/\",\"path\":\"/\",\"relative\":\"/\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/\",\"queryKey\":{},\"chunks\":[\"\"]}}\n    at :/ghostdriver/request_handlers/router_request_handler.js:87",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 87
+    }
+  ]
+}
+[INFO  - 2014-07-21T07:38:53.124Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:39:17.326Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:40:01.527Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:40:27.954Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:40:35.596Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:42:16.240Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:42:33.748Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:42:36.698Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:42:51.780Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:43:23.398Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:43:29.262Z] GhostDriver - Main - running on port 3003
+[INFO  - 2014-07-21T07:43:29.793Z] Session [b529ae90-10aa-11e4-ac39-afd7e4cb315a] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T07:43:29.793Z] Session [b529ae90-10aa-11e4-ac39-afd7e4cb315a] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T07:43:29.793Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b529ae90-10aa-11e4-ac39-afd7e4cb315a
+[INFO  - 2014-07-21T07:43:53.223Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:44:17.423Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:45:01.637Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:45:28.052Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:45:35.684Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:47:16.304Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:47:33.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:47:36.779Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:47:51.875Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:48:23.474Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:48:29.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:48:53.311Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:49:17.437Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:50:01.639Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:50:28.120Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:50:35.782Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:52:16.402Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:52:33.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:52:36.879Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:52:51.955Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:53:23.557Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:53:29.370Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:53:53.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:54:17.520Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:55:01.735Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:55:28.191Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:55:35.881Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:57:16.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:57:33.907Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:57:36.972Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:57:52.039Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:58:23.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:58:29.465Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:58:53.500Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T07:59:17.595Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:00:01.830Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:00:28.291Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:00:35.979Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:02:16.545Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:02:34.004Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:02:37.071Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:02:52.135Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:03:23.722Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:03:29.555Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:03:53.489Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:04:17.689Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:05:01.929Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:05:28.366Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:05:36.054Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:07:16.643Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:07:34.103Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:07:37.156Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:07:52.199Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:08:23.816Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:08:29.632Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:08:53.568Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:09:17.778Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:10:02.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:10:28.462Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:10:36.151Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:12:16.739Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:12:34.234Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:12:37.256Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:12:52.295Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:13:23.908Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:13:29.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:13:53.667Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:14:17.851Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:15:02.169Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:15:28.545Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:15:36.180Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:17:16.815Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:17:34.279Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:17:37.355Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:17:52.382Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:18:24.006Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:18:29.765Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:18:53.676Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:19:17.951Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:20:02.224Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:20:28.643Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:20:36.270Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:22:16.911Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:22:34.393Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:22:37.453Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:22:52.479Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:23:24.104Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:23:29.860Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:23:53.802Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:24:17.977Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:25:02.354Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:25:28.736Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:25:36.367Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:27:17.007Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:27:34.475Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:27:37.551Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:27:52.575Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:28:24.203Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:28:29.959Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:28:53.891Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:29:18.075Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:30:02.417Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:30:28.834Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:30:36.466Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:32:17.103Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:32:34.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:32:37.650Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:32:52.579Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:33:24.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:33:30.056Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:33:53.951Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:34:18.173Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:35:02.493Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:35:28.930Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:35:36.563Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:37:17.200Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:37:34.562Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:37:37.740Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:37:52.609Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:38:24.401Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:38:30.154Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:38:54.050Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:39:18.265Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:40:02.533Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:40:28.961Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:40:36.611Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:42:17.299Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:42:34.691Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:42:37.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:42:52.746Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:43:24.499Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:43:30.208Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:43:54.163Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:44:18.363Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:45:02.623Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:45:29.505Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:45:33.236Z] GhostDriver - Main - running on port 30139
+[INFO  - 2014-07-21T08:45:33.741Z] Session [60cf8280-10b3-11e4-b749-635e9cba5b8f] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T08:45:33.741Z] Session [60cf8280-10b3-11e4-b749-635e9cba5b8f] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T08:45:33.741Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 60cf8280-10b3-11e4-b749-635e9cba5b8f
+[INFO  - 2014-07-21T08:45:36.659Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:47:17.398Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:47:34.738Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:47:37.938Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:47:52.803Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:48:24.589Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:48:30.284Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:48:54.185Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:49:18.463Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:53:35.214Z] GhostDriver - Main - running on port 25663
+[INFO  - 2014-07-21T08:53:35.493Z] Session [7ff4b9e0-10b4-11e4-a2a6-79e000ee1104] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T08:53:35.494Z] Session [7ff4b9e0-10b4-11e4-a2a6-79e000ee1104] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T08:53:35.494Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7ff4b9e0-10b4-11e4-a2a6-79e000ee1104
+[INFO  - 2014-07-21T08:54:47.107Z] GhostDriver - Main - running on port 4824
+[INFO  - 2014-07-21T08:54:47.471Z] Session [aadc27b0-10b4-11e4-9b47-f17e8162671a] - CONSTRUCTOR - Desired Capabilities: {}
+[INFO  - 2014-07-21T08:54:47.472Z] Session [aadc27b0-10b4-11e4-9b47-f17e8162671a] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-07-21T08:54:47.472Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: aadc27b0-10b4-11e4-9b47-f17e8162671a
+[INFO  - 2014-07-21T08:58:35.299Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T08:59:47.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:03:35.397Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:04:47.151Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:08:35.476Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:09:47.153Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:13:35.570Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:14:47.196Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:18:35.670Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:19:47.197Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:23:35.765Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:24:47.279Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:28:35.848Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:29:47.313Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:33:35.862Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:34:47.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:38:35.959Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:39:47.385Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:43:36.006Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:44:47.482Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:48:36.096Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:49:47.494Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:53:36.195Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:54:47.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:58:36.282Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T09:59:47.627Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:03:36.381Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:04:47.675Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:08:36.402Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:09:47.680Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:13:36.466Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:14:47.699Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:18:36.556Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:19:47.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:23:36.637Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:24:47.716Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:28:36.728Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:29:47.718Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:33:36.757Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:34:47.798Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:38:36.823Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:39:47.897Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:43:36.922Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:44:47.912Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:48:36.932Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:49:48.001Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:53:37.008Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:54:48.071Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:58:37.103Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T10:59:48.093Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T11:03:37.131Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T11:04:48.150Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T11:08:37.211Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-07-21T11:09:48.201Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
