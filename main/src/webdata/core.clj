@@ -1,5 +1,5 @@
 (ns webdata.core
- (:gen-class)
+ ;(:gen-class)
  (:require [clojure.data.json :as json])
  (:require [clojure.test :as test]))
 
@@ -12,9 +12,8 @@
         'org.openqa.selenium.remote.DesiredCapabilities)
 (set-driver! (init-driver {:webdriver (PhantomJSDriver. (DesiredCapabilities. ))}))
 
-
-
 (def fstr "http://200.48.102.67/pecaoe/sipe/HojaVida.htm?p=72&op=140&c=")
+;; Test
 (defn fill-table [table-id table-keys]
  (let [z (pmap text (elements table-id))
        siz (count z)
@@ -67,9 +66,9 @@
           ]
 
      (map (fn [x]
-          (cond
-           (test/is (to (str fstr x)))
-           (zipmap [:Postulacion :Personal :Nacimiento :Residencia :Familiar :Ingresos :Creditos :Educacion :Experiencia :Politica :Bienes :Antecedentes :Observaciones :foto :id]
+          (try
+            (to (str fstr x))
+            (zipmap [:Postulacion :Personal :Nacimiento :Residencia :Familiar :Ingresos :Creditos :Educacion :Experiencia :Politica :Bienes :Antecedentes :Observaciones :foto :id]
                    (conj
                     []
                     (zipmap keys-Postulacion (pmap text postulacion))
@@ -116,15 +115,18 @@
                     (fill-table "table#tblObservaciones td" field-Observaciones)
                     (attribute "#fotoCandidato" :src)
                     x
-
-
-                    ))))
+                    ))
+            (catch Exception e)
+            )
+           )
 ;;Modificar el rango que quieres descargar
         (range a b))))
 
 ;; Modificar la ruta donde quieres que se exporte el archivo JSON
-(with-open [wrtr (writer "/home/saiberz/projects/elecciones2014/resultado.json")]
-    (.write wrtr (json/write-str (results 1 10))))
+(with-open [wrtr (writer "/home/saiberz/projects/try.json")]
+    (.write wrtr (json/write-str (results 10 20))))
+
+(+ 2 3)
 
 (println-str "Export Exito!")
 
