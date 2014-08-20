@@ -48,31 +48,33 @@
 
 (defn add-list []
   "Agrega los detalles de la lista"
-  (merge (zipmap [:jee :expediente :solicitud :op :estado :exped]
-                 (pmap #(text (nth (elements ".tabla_main td" ) %)) (range 1 6)))
-         {:exp (re-find #"[0-9]+" (attribute (element "#imgDetalle") :onclick))}
-         {:candis (get-candis)}))
+  (time
+   (merge (zipmap [:jee :expediente :solicitud :op :estado :exped]
+                  (pmap #(text (nth (elements ".tabla_main td" ) %)) (range 1 6)))
+          {:exp (re-find #"[0-9]+" (attribute (element "#imgDetalle") :onclick))}
+          {:candis (get-candis)})))
 
 (defn -main []
   (let [conn (mg/connect {:host "localhost" :port 27017})
         db   (mg/get-db conn "test")
         coll "regional"]
                                         ;  (loop [y 17]
-    (loop [y 3]
-                                        ;(loop [y (dec (count (elements "#ddlDepartamento.select option")))]
+                                        ;    (loop [y 3]
+    (loop [y (dec (count (elements "#ddlDepartamento.select option")))]
       (when (> y 0)
         (select-option "#ddlDepartamento" {:index y})
-        (loop [x 7]
-                                        ;    (loop [x (dec (count (elements "#ddlOrgPolitica.select option")))]
+                                        ;        (loop [x 7]
+        (loop [x (dec (count (elements "#ddlOrgPolitica.select option")))]
           (when (> x 0)
             (select-option "#ddlOrgPolitica" {:index x})
             (click ".boton_buscar")
             (click "[src='images/consulta/mas.png']")
                                         ;    (Thread/sleep 200)
-;          (mc/insert db coll
+                                        ;          (mc/insert db coll
             (mc/insert db coll (add-list))
-            (println "Added")
-;            (println (add-list))
+            (println (str "Added " x "-- " y))
+
+                                        ;            (println (add-list))
             (recur (- x 1))))
         (recur (- y 1))))))
 
