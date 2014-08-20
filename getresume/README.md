@@ -4,7 +4,7 @@ A Clojure library to get resume of candidates of regional elections 2014 .
 
 ## Usage
 
-Run core.app
+lein run
 
 ## License
 
