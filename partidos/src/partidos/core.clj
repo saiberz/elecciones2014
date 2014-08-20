@@ -1,4 +1,4 @@
-(ns elecciones.core
+(ns partidos.core
   (:gen-class)
   (:require [clojure.data.json :as json]
             [monger.collection :as mc]
@@ -13,7 +13,6 @@
 (use '[clj-webdriver.driver :only [init-driver]])
 (import 'org.openqa.selenium.phantomjs.PhantomJSDriver
         'org.openqa.selenium.remote.DesiredCapabilities)
-
 (set-driver!
  (init-driver
  {:webdriver (PhantomJSDriver. (DesiredCapabilities. ))}))
@@ -23,71 +22,13 @@
 (print (title))
 
 (select-option "#ddlTipoEleccion" {:index 0})
-(select-option "#ddlDepartamento" {:index 1})
-(select-option "#ddlOrgPolitica" {:index 4})
-(selected-options "#ddlTipoEleccion")
-(selected-options "#ddlDepartamento")
-(selected-options "#ddlOrgPolitica")
-(click ".boton_buscar")
-(click (find-element {:src "images/consulta/mas.png"}))
-
-
-
-(let [conn (mg/connect {:host "localhost" :port 27017})
-      db   (mg/get-db conn "test")
-      coll "regional"]
-;  (loop [y 17]
-  (loop [y (dec (count (elements "#ddlDepartamento.select option")))]
-    (when (> y 0)
-      (select-option "#ddlDepartamento" {:index y})
-                                        ;      (loop [x 7]
-      (loop [x (dec (count (elements "#ddlOrgPolitica.select option")))]
-        (when (> x 0)
-          (select-option "#ddlOrgPolitica" {:index x})
-          (click ".boton_buscar")
-          (click "[src='images/consulta/mas.png']")
-                                       ;    (Thread/sleep 200)
-                                        ;          (mc/insert db coll
-          (try
-            (cond (not (nil? (element "table.body_tabla tbody tr td:nth-child(3)")))
-                  (println
-                   (zipmap [:dnis :partido :estado :codigo]
-                           (conj []
-                                 (map text (elements "table.body_tabla tbody tr td:nth-child(3)"))
-                                 (nth (map text (elements "#ddlOrgPolitica.select option")) x)
-                                 (text (last (elements "[align='center']" )))
-                                 (nth (map (fn[x]
-                                             (attribute x :value)) (elements "#ddlOrgPolitica option")) x)
-                                 )))
-                  :else (println "eror"))
-            (catch Exception e (.getMessage e)))
-          (recur (- x 1))))
-      (recur (- y 1)))))
-
-
-(loop [y 3]
-;(loop [y (dec (count (elements "#ddlDepartamento.select option")))]
-  (when (> y 0)
-    (select-option "#ddlDepartamento" {:index y})
-    (loop [x 7]
-;    (loop [x (dec (count (elements "#ddlOrgPolitica.select option")))]
-      (when (> x 0)
-        (select-option "#ddlOrgPolitica" {:index x})
-        (click ".boton_buscar")
-        (click "[src='images/consulta/mas.png']")
-                                        ;    (Thread/sleep 200)
-                                        ;          (mc/insert db coll
-        (println (add-list))
-        (recur (- x 1))))
-    (recur (- y 1))))
-
-
-
-(defn get-dnis []
-  (map text (elements "table.body_tabla tbody tr td:nth-child(3)")))
-
-(time (pmap text (elements "table.body_tabla tbody tr td:nth-child(3)")))
-
+;; (select-option "#ddlDepartamento" {:index 1})
+;; (select-option "#ddlOrgPolitica" {:index 4})
+;; (selected-options "#ddlTipoEleccion")
+;; (selected-options "#ddlDepartamento")
+;; (selected-options "#ddlOrgPolitica")
+;; (click ".boton_buscar")
+;; (click (find-element {:src "images/consulta/mas.png"}))
 
 (defn get-resume []
   (let [links (elements "[src='images/consulta/hojavida1.png']")]
@@ -112,85 +53,109 @@
          {:exp (re-find #"[0-9]+" (attribute (element "#imgDetalle") :onclick))}
          {:candis (get-candis)}))
 
-(print (add-list))
-
-(keyword (range 5))
-(map keyword (range 5))
-(map (fn[x] (keyword x)) (range 5))
-(keyword )
-(let [dnis (get-dnis)]
- (zipmap
-  (map keyword
-       (map str (range (count dnis)))) dnis))
-
-(zipmap [:1 :2 ]
-        (zipmap :dni)
-)
-(zipmap [:dni :dni2] [1 2])
-(k)
-(assoc {} :Partido
-       (zipmap [:one :two :three]
-               [1 2 3]))
-(map text (elements "table.body_tabla tbody tr td:nth-child(3)"))
-
-
-
-
-
-(map #(+ 1 %) (range 1 5))
-(add-list)
+(defn -main []
+  (let [conn (mg/connect {:host "localhost" :port 27017})
+        db   (mg/get-db conn "test")
+        coll "regional"]
+                                        ;  (loop [y 17]
+    (loop [y 3]
+                                        ;(loop [y (dec (count (elements "#ddlDepartamento.select option")))]
+      (when (> y 0)
+        (select-option "#ddlDepartamento" {:index y})
+        (loop [x 7]
+                                        ;    (loop [x (dec (count (elements "#ddlOrgPolitica.select option")))]
+          (when (> x 0)
+            (select-option "#ddlOrgPolitica" {:index x})
+            (click ".boton_buscar")
+            (click "[src='images/consulta/mas.png']")
+                                        ;    (Thread/sleep 200)
+;          (mc/insert db coll
+            (mc/insert db coll (add-list))
+            (println "Added")
+;            (println (add-list))
+            (recur (- x 1))))
+        (recur (- y 1))))))
 
 
-(mer )
+;; (print (add-list))
 
-(println (map (fn[x](text (nth (elements ".tabla_main td" ) x))) (range 1 6)))
+;; (keyword (range 5))
+;; (map keyword (range 5))
+;; (map (fn[x] (keyword x)) (range 5))
+;; (keyword )
+;; (let [dnis (get-dnis)]
+;;  (zipmap
+;;   (map keyword
+;;        (map str (range (count dnis)))) dnis))
 
-(text (nth (elements ".tabla_main td" ) 2))
-(text (nth (elements ".tabla_main td" ) 3))
-(text (nth (elements ".tabla_main td" ) 4))
-(text (nth (elements ".tabla_main td" ) 5))
-
-
-
-(attribute (element "#imgDetalle") :onclick)
-(element "")
-(element "#imgPlanGobierno")
-
-(nth (elements ".tabla_main td" ) 6)
-(text (nth (elements "tr td [style = 'text-align: left;']" ) 0))
-
-(map text (elements "tr td" ))
-(elements "[align = 'text-align: left;']" )
+;; (zipmap [:1 :2 ]
+;;         (zipmap :dni)
+;; )
+;; (zipmap [:dni :dni2] [1 2])
+;; (k)
+;; (assoc {} :Partido
+;;        (zipmap [:one :two :three]
+;;                [1 2 3]))
+;; (map text (elements "table.body_tabla tbody tr td:nth-child(3)"))
 
 
 
-(text (nth (elements "tr td [style = 'text-align: left;']" )))
-(map text (elements "tbody tr td [style = 'text-align: left;']" ))
-(println (map text (elements "td")))
-style="text-align: left;"
-(println (text (element "td")))
-(map text (nth (elements "tr td") 0))
-(elements "tr td")
-(+ 2 3)
 
 
-(text (last (elements "[align='left']" )));Estado
+;; (map #(+ 1 %) (range 1 5))
+;; (add-list)
+
+
+;; (mer )
+
+;; (println (map (fn[x](text (nth (elements ".tabla_main td" ) x))) (range 1 6)))
+
+;; (text (nth (elements ".tabla_main td" ) 2))
+;; (text (nth (elements ".tabla_main td" ) 3))
+;; (text (nth (elements ".tabla_main td" ) 4))
+;; (text (nth (elements ".tabla_main td" ) 5))
 
 
 
-(conj [] 1 2)
-(conj []
-      "nombre" "123" "000270" "tacha" "url" "url")
-(merge {:nombre "Nombre Lista"
- :codinnngo "123"
- :expediente "00070-2014- 077"
-       } {:dnis [{:dni 12} 3 4]})
+;; (attribute (element "#imgDetalle") :onclick)
+;; (element "")
+;; (element "#imgPlanGobierno")
 
-(conj [] (get-dnis))
-(vector  (get-dnis))
-(type (get-dnis))
-(map keyword (get-dnis))
-(zipmap [:1 :2 ] (get-dnis))
+;; (nth (elements ".tabla_main td" ) 6)
+;; (text (nth (elements "tr td [style = 'text-align: left;']" ) 0))
+
+;; (map text (elements "tr td" ))
+;; (elements "[align = 'text-align: left;']" )
+
+
+
+;; (text (nth (elements "tr td [style = 'text-align: left;']" )))
+;; (map text (elements "tbody tr td [style = 'text-align: left;']" ))
+;; (println (map text (elements "td")))
+;; style="text-align: left;"
+;; (println (text (element "td")))
+;; (map text (nth (elements "tr td") 0))
+;; (elements "tr td")
+;; (+ 2 3)
+
+
+;; (text (last (elements "[align='left']" )));Estado
+
+
+
+;; (conj [] 1 2)
+;; (conj []
+;;       "nombre" "123" "000270" "tacha" "url" "url")
+;; (merge {:nombre "Nombre Lista"
+;;  :codinnngo "123"
+;;  :expediente "00070-2014- 077"
+;;        } {:dnis [{:dni 12} 3 4]})
+
+;; (conj [] (get-dnis))
+;; (vector  (get-dnis))
+;; (type (get-dnis))
+;; (map keyword (get-dnis))
+;; (zipmap [:1 :2 ] (get-dnis))
 
 ;Hints
 ;group-by
